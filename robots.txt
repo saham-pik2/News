@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://saham-pik2.github.io/News/sitemap.xml
